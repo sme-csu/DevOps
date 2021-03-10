@@ -18,7 +18,7 @@ A compound of development (Dev) and operations (Ops), DevOps is the union of peo
 
 - SME Sharing Recording: 
 
-  https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Oct.16%20DevOps%20Strategic%20View/Recording.url
+  https://msit.microsoftstream.com/video/f9fca3ff-0400-9fb2-dca3-f1eb0fac234a
 
 - SME Sharing PowerPoint:
 
