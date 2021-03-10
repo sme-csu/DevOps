@@ -32,7 +32,7 @@ Distributed applications and services running in the cloud are, by their nature,
 
 - SME Sharing Recording: 
 
-  https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Jan.8/Recording.url
+  https://msit.microsoftstream.com/video/eed9a3ff-0400-a605-98fe-f1eb518a346d
 
 ## 2 SME-CSU Team DevOps Project Assets
 
